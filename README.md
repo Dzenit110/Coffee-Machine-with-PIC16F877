@@ -1,4 +1,4 @@
-<img width="819" alt="Screenshot_1" src="https://github.com/user-attachments/assets/991cd9f2-c0bc-4f20-980d-997657d5cd8b"># Coffee-Machine-with-PIC16F877
+## Coffee-Machine-with-PIC16F877
 
 The Coffee Machine project is an embedded system designed to simulate a vending machine for coffee. It allows users to select their preferred type of coffee, make payments, and receive their chosen beverage. The project integrates various components, including a microcontroller, an LCD display, and a payment mechanism, to create a user-friendly interface. When a user selects a coffee type and completes the payment, the machine activates the coffee dispensing mechanism, delivering the beverage. This project serves as a practical example of how hardware and software can work together to create an interactive experience in a real-world application.
 
