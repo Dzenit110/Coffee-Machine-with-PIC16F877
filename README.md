@@ -25,34 +25,37 @@ The Coffee Machine project simulates a vending machine specifically designed for
 
 ## User Interface Examples
 
-<img width="819" alt="Screenshot_1" src="https://github.com/user-attachments/assets/95549d7f-c5f5-4c4a-9f83-0dfde2e64543">
+<div align="center">
+
+<img width="500" alt="Screenshot_1" src="https://github.com/user-attachments/assets/95549d7f-c5f5-4c4a-9f83-0dfde2e64543">
 
 <br>
-Figure 1 Display of the start of the coffee machine simulation (Flowcode)
+Figure 1: Display of the start of the coffee machine simulation (Flowcode)
 
 <br><br>
 
-<img width="812" alt="Screenshot_2" src="https://github.com/user-attachments/assets/9979fcf4-f908-4edc-b388-a07bbe2d51be">
+<img width="500" alt="Screenshot_2" src="https://github.com/user-attachments/assets/9979fcf4-f908-4edc-b388-a07bbe2d51be">
 
 <br>
-
-Figure 2 Display when the user presses one of the buttons and selects the desired credit for purchasing coffee (Simulation)
+Figure 2: Display when the user presses one of the buttons and selects the desired credit for purchasing coffee (Simulation)
 
 <br><br>
 
-<img width="813" alt="Screenshot_3" src="https://github.com/user-attachments/assets/fd22b652-6c85-4182-8f18-28be9cfb5455">
+<img width="500" alt="Screenshot_3" src="https://github.com/user-attachments/assets/fd22b652-6c85-4182-8f18-28be9cfb5455">
 
 <br>
-
-Figure 3 "Display simulation 'The drink is being prepared"
+Figure 3: Display simulation "The drink is being prepared"
 
 <br><br>
 
-<img width="794" alt="Screenshot_4" src="https://github.com/user-attachments/assets/39ac140a-8a18-4383-a7d0-eb228261d9ce">
+<img width="500" alt="Screenshot_4" src="https://github.com/user-attachments/assets/39ac140a-8a18-4383-a7d0-eb228261d9ce">
 
 <br>
+Figure 4: Display "The drink is ready" (simulation)
 
-Figure 4 "Display 'The drink is ready' (simulation)"
+</div>
+
+
 
 
 ## 🧰 Languages & Tools 
